@@ -10,7 +10,7 @@ export const Container = styled.View`
   align-items: center;
   justify-content: space-between;
 
-  opacity: ${props => (props.past ? 0.7 : 1)};
+  opacity: ${props => (props.past || props.canceled ? 0.7 : 1)};
 `;
 
 export const Left = styled.View`
