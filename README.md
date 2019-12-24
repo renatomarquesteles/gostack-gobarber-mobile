@@ -13,6 +13,11 @@
 
 > Aplicativo mobile para agendamentos de uma barbearia.
 
+## Preview
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37571156/71418990-1e8abc00-264c-11ea-905b-914c59331489.gif" />
+</p>
+
 ## Descrição
 
 App em React Native com Redux & Redux-Saga desenvolvido durante o bootcamp GoStack da Rocketseat utilizando as tecnologias e boas práticas mais utilizadas pelas empresas.
